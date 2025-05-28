@@ -1,0 +1,3 @@
+/Users/yuswa-/Documents/Projects/indolang/indo/bin/CMakeFiles/indo.dir
+/Users/yuswa-/Documents/Projects/indolang/indo/bin/CMakeFiles/edit_cache.dir
+/Users/yuswa-/Documents/Projects/indolang/indo/bin/CMakeFiles/rebuild_cache.dir

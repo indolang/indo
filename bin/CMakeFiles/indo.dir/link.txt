@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/indo.dir/main.c.o CMakeFiles/indo.dir/parser.c.o CMakeFiles/indo.dir/runtime.c.o CMakeFiles/indo.dir/evaluator.c.o -o indo
